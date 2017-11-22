@@ -18,7 +18,6 @@ Published: July 4, 2016
 
 
 ## Introduction
-
 The Windows NT and Windows 2000 Resource Kits come with a number of
 command-line tools that help you administer your Windows NT/2K systems.
 Over time, I've grown a collection of similar tools, including some not
@@ -34,7 +33,7 @@ all the tools in order to tie them together into a suite of tools named
 > Some anti-virus scanners report that one or more of the tools are infected with a "remote admin" virus. None of the PsTools contain viruses, but they have been used by viruses, which is why they trigger virus notifications.*
 
 The tools included in the *PsTools* suite, which are downloadable as a
-package, are:
+package, are
 
 -   [*PsExec*](psexec.md) -
     execute processes remotely
